@@ -4,8 +4,10 @@
 
 1. Clone this repo
 
-2. npm install
+2. git remote rm origin
 
-3. run dev server with command "npm run dev"
+3. npm install
 
-4. build final output with "npm run build"
+4. run dev server with command "npm run dev"
+
+5. build final output with "npm run build"

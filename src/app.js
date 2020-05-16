@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Header from './components/Header.js';
-import Footer from './components/Header.js';
+import Footer from './components/Footer.js';
 import './css/style.css';
 
 const App = (props) => {
